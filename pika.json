@@ -1,0 +1,22 @@
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"abilities":{{"ability":{"name":"static","url":"https://pokeapi.co/api/v2/ability/9/"},"is_hidden":false,"slot":1},{"ability":{"name":"ligh
+                    tning-rod","url":"https://pokeapi.co/api/v2/ability/31/"},"i...
+RawContent        : HTTP/1.1 200 OK
+                    Transfer-Encoding: chunked
+                    Connection: keep-alive
+                    strict-transport-security: max-age=31556926
+                    x-country-code: US
+                    x-orig-accept-language: ko-KR,ko;q=0.9
+                    x-served-by: cache-mia-kmi...
+Forms             : {}
+Headers           : {[Transfer-Encoding, chunked], [Connection, keep-alive], [strict-transport-security, max-age=31556926], [x-country-code, US]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 245395
+
+
